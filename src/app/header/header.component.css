@@ -1,0 +1,28 @@
+.nav li{
+    /* float: right; */
+    padding-right: 50px;
+    display: inline;
+    font-weight: bold;
+    padding-bottom: -20px;
+    font-size: 20px;
+    margin-left: 200px;
+}
+.nav{ 
+    height: 50px;
+    border-radius: 200px;
+    background-color: rgb(18, 38, 221);
+}
+.nav li{
+    /* float: right; */
+    padding-right: 50px;
+    display: inline;
+    font-weight: bold;
+    padding-bottom: -20px;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.nav{ 
+    height: 50px;
+    border-radius: 200px;
+    background-color: rgb(5, 38, 224);
+}
