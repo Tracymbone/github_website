@@ -12,7 +12,7 @@ Software Developer
 
 # Project Description 
 
-This project is also found in other medias for example there is a good tutorial about the same project on youtube.
+This project is about a github website where you can search different users who post their projects in github and be able to see the different repositories that they have wprked on.
 
 # Project Link
 
@@ -23,6 +23,8 @@ This url link will take you to my github_Website https://tracymbone.github.io/gi
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 # Setup Instruction 
+
+This project is also found in other medias for example there is a good tutorial about the same project on youtube.
 
 ## Development server
 
