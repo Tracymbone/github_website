@@ -1,0 +1,9 @@
+.footer {
+    padding: 50px;
+    background-color:rgb(10, 245, 30);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+#footer {
+    color: white;
+}

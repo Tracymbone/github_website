@@ -1,0 +1,14 @@
+.form{
+    height: 500px;
+    /* overflow: hidden; */
+  
+}
+.user{
+    text-align: center;
+    background-color: rgb(15, 247, 34);
+   
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+}

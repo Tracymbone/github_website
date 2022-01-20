@@ -1,3 +1,14 @@
+<div class="nav">
+  <nav>
+    <ul>
+        <li routerLink ="home" >Home</li> 
+        <li routerLink ="form"  >search</li>
+        <li routerLink ="contact" >Contact</li>
+        
+      </ul>
+  </nav>
+  </div>
+<!--   
 <div class="landingpage">
   <h1>WELCOME TO GITHUB-WEBSITE</h1>
   <div>
@@ -14,4 +25,25 @@
 </ul>
  
 
+</div> -->
+<div class="form">
+  <!-- <div class="user">
+      <h1>user-name search</h1>
+    <div class="" >
+      <form action="">
+          <input   type="text"    name="username" id="username" placeholder="Enter github username"> <br> <br>
+          <p>Username is required</p> <br> <br>
+          
+      </form> 
+   </div> 
+  </div> <br> <br> -->
+  <div *ngFor="let result of results;let i=index">
+  <div class="login"> {{result.login}} {{ result.name }} </div>
+  <div class="repository"> Date Created: {{ result.created_at | date: 'short' }} </div>
+  <div class="repository"> Public Repo: {{ result.public_repos }} </div>
+ <div class="like"> Followers: {{ result.followers }} </div>
+ <div class="like"> Following: {{ result.following }} </div>
+  </div>
 </div>
+
+<router-outlet></router-outlet>

@@ -9,7 +9,7 @@ import { GithubServiceService } from './github-service.service';
 export class AppComponent implements OnInit  {
   title = 'github_website';
   constructor(private gitservice:GithubServiceService){}
-  ngOnInit(){this.gitservice.getUsersList().subscribe(data=>{
+  ngOnInit(){this.gitservice.getUsersList("Tracymbone").subscribe(data=>{
     console.log(data)
   })}
 

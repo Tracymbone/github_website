@@ -1,0 +1,17 @@
+<!-- <app-landingpage></app-landingpage> -->
+<div class="form">
+    <div class="user">
+        <h1>user-name search</h1>
+     <div class="" >
+        <form action="" #search="ngForm">
+            <input [(ngModel)]="nameForUser"  type="text"    name="username" id="username" placeholder="Enter github username"> <br> <br>
+            <p>Username is required</p> <br> <br>
+            <button class="btn btn-outline-primary"(click)="getUser()">Submit</button>
+        </form> 
+     </div>
+    </div>
+</div>
+<div *ngIf="results">
+{{results.login}}
+</div>
+<!-- <app-footer></app-footer> -->

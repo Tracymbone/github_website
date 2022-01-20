@@ -1,0 +1,29 @@
+nav li{
+    
+    padding-right: 50px;
+    display: inline;
+    font-weight: bold;
+    padding-bottom: -20px;
+    font-size: 20px;
+    margin-left: 200px;
+}
+.nav{ 
+    height: 50px;
+    border-radius: 200px;
+    background-color: rgb(15, 37, 233);
+}
+
+.form{
+    height: 80px;
+    /* overflow: hidden; */
+  
+}
+.user{
+    text-align: center;
+    background-color: rgb(39, 238, 13);
+   
+}
+h1{
+    font-weight: bold;
+    text-align: center;
+}
