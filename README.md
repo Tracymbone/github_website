@@ -26,6 +26,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 This project is also found in other medias for example there is a good tutorial about the same project on youtube.
 
+# Technology Used
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
