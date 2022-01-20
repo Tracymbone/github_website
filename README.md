@@ -12,7 +12,7 @@ Software Developer
 
 # Project Description 
 
-This project is about a github website where you can search different users who post their projects in github and be able to see the different repositories that they have wprked on.
+This project is about a github website where you can search different users who post their projects in github and be able to see the different repositories that they have worked on.
 
 # Project Link
 
@@ -25,6 +25,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Setup Instruction 
 
 This project is also found in other medias for example there is a good tutorial about the same project on youtube.
+
+# Screenshot
 
 # Technology Used
 
