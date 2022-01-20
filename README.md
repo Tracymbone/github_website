@@ -28,6 +28,9 @@ This project is also found in other medias for example there is a good tutorial 
 
 # Screenshot
 
+file:///home/moringa/Pictures/Screenshot%20from%202022-01-20%2011-35-43.png
+
+
 # Technology Used
 
 Typescript
