@@ -10,6 +10,10 @@ Tracy Mbone
 
 Software Developer
 
+# Project Description 
+
+This project is also found in other medias for example there is a good tutorial about the same project on youtube.
+
 # GithubWebsite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
