@@ -66,4 +66,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Email Information 
 
+tracymbone1@gmail.com
+
 
